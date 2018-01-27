@@ -34,8 +34,8 @@ class HomeHeader extends Component {
       <HeaderNav />
           <div className="header-container">
               <div className="content">
-                  <h1>I love carpet. I love desk.</h1>
-                  <a className="btn" href="/" onClick={(e) => {toProducts();e.preventDefault()}}>I love lamp</a>
+                    <h1>For Our Republic.</h1>
+                  <a className="btn" href="/" onClick={(e) => {toProducts();e.preventDefault()}}>Shop</a>
               </div>
           </div>
           <div className="down-arrow" aria-hidden="true"><span className="arrow">	&#10095; </span></div>
