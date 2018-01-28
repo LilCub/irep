@@ -8,7 +8,7 @@ class Footer extends Component {
           <div className="footer-content">
             <div className="footer-about">
                 <div className="footer-header">
-                    <span className="hide-content">I love lamp</span>
+                    <span className="hide-content">IndividualistsREP</span>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.25684 46.73779" aria-hidden="true">
                         <path d="M0,42.478V.65967H4.67969V42.478Z" fill="currentColor"/>
                         <path d="M38.51953,42.478V.65967h9.24023V34.07813H64.0791V42.478Z" fill="currentColor"/>
@@ -26,7 +26,7 @@ class Footer extends Component {
             <nav className="footer-links">
                 <dl>
                     <dt className="footer-header">
-                        <span className="hide-content">@ love lamp</span>
+                        <span className="hide-content">@ irep</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 548.15723 46.73779" aria-hidden="true">
                             <path d="M2.7002,14.39941A22.3863,22.3863,0,0,1,10.499,6.29932,21.07422,21.07422,0,0,1,21.7793,3.11963,21.68905,21.68905,0,0,1,37.0791,9.11914,19.27759,19.27759,0,0,1,43.61816,23.939c0,8.15967-3.41992,12.65918-9.11914,12.65918-3.17969,0-5.28027-1.31982-6.2998-4.01953a8.26685,8.26685,0,0,1-6.60059,3.17969,10.00471,10.00471,0,0,1-7.31934-3,10.222,10.222,0,0,1-2.999-7.49951,10.22307,10.22307,0,0,1,2.999-7.5,10.00619,10.00619,0,0,1,7.31934-2.99951,7.60417,7.60417,0,0,1,6,2.63965V15.29932h4.08008V29.03857c0,3.77979,1.98047,3.77979,2.82031,3.77979a4.17946,4.17946,0,0,0,3.05957-1.13965c1.25977-1.02,1.97949-3.72021,1.97949-7.73975a15.99221,15.99221,0,0,0-5.21875-12.05957,17.63963,17.63963,0,0,0-12.54-4.98,17.01681,17.01681,0,0,0-12.54,5.33984A17.62186,17.62186,0,0,0,4.08008,24.959,17.62154,17.62154,0,0,0,9.23926,37.67822a16.95916,16.95916,0,0,0,12.54,5.27979,16.04544,16.04544,0,0,0,8.28027-2.33984l1.91992,3.59961a21.23435,21.23435,0,0,1-10.2002,2.52A21.19384,21.19384,0,0,1,11.21973,43.978a21.7396,21.7396,0,0,1-8.09961-7.73975A21.01994,21.01994,0,0,1,0,24.959,21.765,21.765,0,0,1,2.7002,14.39941ZM21.59863,31.79834a6.35474,6.35474,0,0,0,6.30078-6.53955,6.26353,6.26353,0,0,0-6.30078-6.59961c-3.65918,0-6.29883,2.75977-6.29883,6.59961A6.21174,6.21174,0,0,0,21.59863,31.79834Z" fill="currentColor"/>
                             <path d="M73.97949,42.478V.65967h9.23926V34.07813H99.53809V42.478Z" fill="currentColor"/>
@@ -63,10 +63,10 @@ class Footer extends Component {
                           <path d="M695.5752,42.47852V.66016h4.67969v37.498h17.21973v4.32031Z" fill="currentColor"/>
                       </svg>
                   </dt>
-                  <dd><a href="/">Facebook</a></dd>
-                  <dd><a href="/">Instagram</a></dd>
-                  <dd><a href="/">Pinterest</a></dd>
-                  <dd><a href="/">Twitter</a></dd>
+                  <dd><a href="https://theindividualists.tk/">Home</a></dd>
+                  <dd><a href="https://individualistsrepublic.tumblr.com/">Tumblr</a></dd>
+                  <dd><a href="https://twitter.com/RepIndividual">Twitter</a></dd>
+                  <dd><a href="https://www.instagram.com/individualistsrep">Instagram</a></dd>
               </dl>
             </nav>
           </div>
