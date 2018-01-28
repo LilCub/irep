@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import { push } from 'react-router-redux';
 
 var HeaderStyle = {
-  "backgroundImage": `url(${Header})`,
+  
   "backgroundRepeat": "no-repeat",
   "backgroundAttachment": "scroll",
   "backgroundPosition": "center",
