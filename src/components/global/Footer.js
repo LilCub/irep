@@ -30,7 +30,7 @@ class Footer extends Component {
                   <dt className="footer-header">
                       <span className="hide-content">We love social</span>
                      
-                      </svg>
+                      
                   </dt>
                   <dd><a href="https://theindividualists.tk/">Home</a></dd>
                   <dd><a href="https://individualistsrepublic.tumblr.com/">Tumblr</a></dd>
