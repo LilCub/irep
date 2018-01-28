@@ -32,7 +32,7 @@ class HeaderNav extends Component {
           </nav>
           <div className="logo light">
             <a href="/" className="logo-link" onClick={() => toHome()}>
-              <span className="hide-content"> Individualists </span>
+              <span className="hide-content"> IndividualistsREP </span>
                 <div className="big-logo" aria-hidden="true">
                    <img className="small-logo" src="g" alt="" aria-hidden="true"/>
                           
