@@ -55,12 +55,8 @@ class StylesHeader extends Component {
             <a href="products" onClick={() => toProducts()}>Products</a>
             <a href="styles" onClick={() => toStyles()}>Styles</a>
           </nav>
-          <div className="logo">
-            <a href="/" className="logo-link" onClick={() => toHome()}>
-              <span className="hide-content">IndividuaistsREP</span>
-                
-            </a>
-          </div>
+         
+         
           <nav className="secondary-nav light">
             <CartCounter />
           </nav>
