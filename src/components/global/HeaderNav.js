@@ -35,7 +35,7 @@ class HeaderNav extends Component {
               <span className="hide-content"> Individualists </span>
                 <div className="big-logo" aria-hidden="true">
                    <img className="small-logo" src="g" alt="" aria-hidden="true"/>
-                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596 54">
+                          
                            <path fill="currentColor" d="M41.6,48.1V6.3h4.7v41.8H41.6z"/>
                            <path fill="currentColor" d="M80.1,48.1V6.3h9.2v33.4h16.3v8.4H80.1z"/>
                            <path fill="currentColor" d="M138.3,12c4.2-4.1,9.9-6.4,15.8-6.3c5.9-0.1,11.6,2.2,15.8,6.3c4.3,4,6.6,9.5,6.5,15.4
@@ -53,7 +53,7 @@ class HeaderNav extends Component {
                        </svg>
                    </div>
                    <div className="small-logo" aria-hidden="true">
-                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 54">
+                       
                         <path fill="currentColor" d="M28.2,48.2V6.4h4.7v41.8H28.2z"/>
                            <path fill="currentColor" d="M150.4,48.2V6.4h4.7v37.5h17.2v4.3H150.4z"/>
                            <path fill="currentColor" d="M199.5,48.2l17.7-41.8h3.6l17.7,41.8h-5l-4.3-10.3h-20.3l-4.3,10.3H199.5z M210.7,33.6h16.7L219,13.7
