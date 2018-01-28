@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import HeaderNav from '../global/HeaderNav';
-import * as Header from '../../assets/img/headers/header.png';
 import { connect } from 'react-redux';
 import { push } from 'react-router-redux';
 
